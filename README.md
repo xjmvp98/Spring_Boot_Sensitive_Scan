@@ -5,7 +5,7 @@ Spring-Boot 敏感信息扫描（被动），安全测试过程中自动对请�
 - 检测时会自动进行去重（检测过的不再进行检测）
 - 静态资源链接不进行检测
 - 采用异步请求检测，不会影响主进程
-- ## 插件使用
+## 插件使用
   
  ![image](https://github.com/user-attachments/assets/bbdfa6a2-a8da-49a3-9a65-335973e266b8)
 
